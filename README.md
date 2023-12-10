@@ -1,7 +1,7 @@
 # Java Credit Card Processing Application
 
-# Student ID: 017463602 
-# Subject: CMPE 202
+### Student ID: 017463602 
+### Subject: CMPE 202
 
 This application, developed in Java, employs various design patterns to determine credit card types based on user-provided records. It supports multiple file formats, including CSV, JSON, and XML, and reads credit card details like card number, expiration date, and cardholder's name.
 
