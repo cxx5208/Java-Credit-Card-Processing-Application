@@ -7,8 +7,15 @@ This application, developed in Java, employs various design patterns to determin
 
 The application leverages these design patterns:
 
-1.Strategy Pattern
-2.Factory Pattern
+##### 1.Strategy Pattern
+- Flexibility in Processing: Allows the application to choose the appropriate algorithm for processing different file formats (CSV, JSON, XML) at runtime.
+- Easy to Extend: New file formats can be added without altering the existing code.
+- Decouples Algorithm: Separates the file processing algorithms from the client code, leading to cleaner, more maintainable code.
+
+##### 2.Factory Pattern
+- Simplifies Object Creation: Encapsulates the logic of creating credit card instances based on the provided information.
+- Centralized Creation Logic: Makes it easier to manage and modify the creation process of credit card objects in the future.
+- Provides Flexibility: New credit card types can be added without changing the client code, adhering to the open/closed principle.
 
 ## Steps to Run the Application:
 - First, download the code by cloning the repository.
