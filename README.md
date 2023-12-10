@@ -5,7 +5,6 @@ This application, developed in Java, employs various design patterns to determin
 The application leverages these design patterns:
 
 1.Strategy Pattern
-
 2.Factory Pattern
 
 ## Steps to Run the Application:
