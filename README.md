@@ -1,24 +1,19 @@
-# Credit Card Java Application
+##Java Credit Card Processing Application
 
-This application is developed using Java implementing various Design Patterns.
-This Application lets the user provide the Credit Card records, and it determines the type of the credit card.
+This application, developed in Java, employs various design patterns to determine credit card types based on user-provided records. It supports multiple file formats, including CSV, JSON, and XML, and reads credit card details like card number, expiration date, and cardholder's name.
 
-The application accepts the records in various files including CSV, JSON, XML.
-The application reads a record from the file, verifies that the credit card number is a possible account number, and creates an instance of the appropriate credit card class.
-The input files should contain credit card information such as credit card number, expiration date, and the name of the cardholder.
+The application leverages these design patterns:
 
-The design patterns implemented are:
+Strategy Pattern
+Factory Pattern
 
-1. Strategy Pattern
-2. Factory Pattern
-
-## How to Run This?
-- Clone the Repository.
-- Open the project in any IDE (Ex: IntelliJ)
-- This is a maven project, so all the dependencies which are defined in the pom.xml file will be automatically downloaded.
-- Run the class **CreditCardClient** as given below
-  * Open the class **CreditCardClient** in IDE.
-  * The input files are present in the folder `src/main/resources/input/` folder.
-  * The output files will be created in the folder `src/main/resources/output/` folder.
-  * The input files and input files can be modified by using the appropriate variables present in the main() function.
-  * Run the `main()` function to see the application in action.
+##Steps to Run the Application:
+First, download the code by cloning the repository.
+Open the project in an Integrated Development Environment (IDE), such as IntelliJ IDEA.
+As this is a Maven project, any dependencies listed in the pom.xml file will automatically be downloaded.
+To start the application, execute the **CreditCardClient** class:
+Find and open the **CreditCardClient** class within your IDE.
+Input files are located in the src/main/resources/input/ directory.
+Output files will be generated in the src/main/resources/output/ directory.
+You can adjust the input and output files using the corresponding variables in the main() function.
+Run the main() function to initiate the application and observe its functionality.
