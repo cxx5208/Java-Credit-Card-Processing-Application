@@ -8,7 +8,7 @@ This application, developed in Java, employs various design patterns to determin
 The application leverages these design patterns:
 
 ##### 1.Strategy Pattern
-- Flexibility in Processing: Allows the application to choose the appropriate algorithm for processing different file formats (CSV, JSON, XML) at runtime.
+- Flexibility in Processing: Enables runtime selection of the right algorithm for handling various file formats like CSV, JSON, and XML.
 - Easy to Extend: New file formats can be added without altering the existing code.
 - Decouples Algorithm: Separates the file processing algorithms from the client code, leading to cleaner, more maintainable code.
 
