@@ -51,12 +51,11 @@ Here the given question is to extend the code to read input from (ison, xml, csv
 (Kindly click on the images and zoom for clarity - Thank you)
 
 •    UML Class Diagram for Factory Pattern Implementation
+![image](https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/686838f0-70c0-4829-a6ab-052aebdbea19)
 
- ![image](https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/d2c730d6-eec2-49d4-96ff-397da6a4f767)
 
 •	UML Class Diagram for Strategy Pattern Implementation!
-
- ![image](https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/afb8cc9b-49cc-4406-bcbf-468a8c2bdafd)
+![image](https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/2bf227c6-79eb-4ce1-b331-4bf0f5102270)
 
 
 ## Sample testcases
