@@ -64,10 +64,10 @@ Here the given question is to extend the code to read input from (ison, xml, csv
 - XML Output
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/fcef8c0b-3c0b-462a-b3c1-c6f29e63df96">
 
--JSON Input
+- JSON Input
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/ba46105a-7898-409b-863d-d830f615364e">
 
--JSON Output
+- JSON Output
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/9f948be3-5a3e-43fe-b296-d90fdfef2aae">
 
 - JUnit Test cases
