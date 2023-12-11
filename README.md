@@ -10,22 +10,14 @@ The design patterns implemented are:
 2.	Factory Pattern
 
 ### How to Run This?
-•	Clone the Repository.
-
-•	Open the project in any IDE (Ex: IntelliJ)
-
-•	This is a maven project, so all the dependencies which are defined in the pom.xml file will be automatically downloaded.
-
-•	Run the class CreditCardClient as given below
-
-  o	Open the class CreditCardClient in IDE.
-
-  o	The input files are present in the folder src/main/resources/input/ folder.
-
-  o	The output files will be created in the folder src/main/resources/output/ folder.
-
-  o	The input files and input files can be modified by using the appropriate variables present in the main() function.
-
-  o	Run the main() function to see the application in action.
+-	Clone the Repository.
+-	Open the project in any IDE (Ex: IntelliJ)
+-	This is a maven project, so all the dependencies which are defined in the pom.xml file will be automatically downloaded.
+-	Run the class CreditCardClient as given below
+    -	Open the class CreditCardClient in IDE.
+    - The input files are present in the folder src/main/resources/input/ folder.
+    - The output files will be created in the folder src/main/resources/output/ folder.
+    -	The input files and input files can be modified by using the appropriate variables present in the main() function.
+    -	Run the main() function to see the application in action.
 
  
