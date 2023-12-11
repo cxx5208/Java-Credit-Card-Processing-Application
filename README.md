@@ -32,13 +32,14 @@ The secondary problems that l've come across are as below -
 ## Describe what design pattern(s) you use and how (use plain text and diagrams).
 The design patterns that I've implemented are:
 ### 1. Strategy Pattern
-•	Strategy Design pattern allows changing the behaviour of an application based on the selected strategy.
-•	Since there are different file types, objects for each file type are created and appropriate strategies are used based on the input file.
-•	I used a strategy design pattern to support different file formats.
-•	I have created 3 different interfaces CsvFileHandler, JsonHandler and XmlHandler. All these are extended to a file parser. Based on the input, the behaviour changes.
+-	Strategy Design pattern allows changing the behaviour of an application based on the selected strategy.
+-	Since there are different file types, objects for each file type are created and appropriate strategies are used based on the input file.
+-	I used a strategy design pattern to support different file formats.
+-	I have created 3 different interfaces CsvFileHandler, JsonHandler and XmlHandler. All these are extended to a file parser. Based on the input, the behaviour changes.
+  
 ### 2. Factory Pattern
-•	Factory pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
-•	Since there are various types of cards, With an interface called cardFactory, implements it to return a created object of the card type.
+-	Factory pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+-	Since there are various types of cards, With an interface called cardFactory, implements it to return a created object of the card type.
 
 ## Describe the consequences of using this/these pattern(S).
 Ans: Strategy pattern: With usage of strategy pattern, the context becomes independent of concrete strategies, so you can add new implementations or modify existing ones without changing the code of the context or other strategies. Hence, now the code supports sv, xml and json file formats and could be extended further for any file types by just writing another class and adding it to strategy pattern. Factory pattern: The Factory Method separates construction code from the code that actually uses. Therefore, it's easier to extend the construction code independently from the rest of the code. Currently code supports VisaCC, MasterCC, American express ,Discover, to add a new card type to the app, you'll only need to create a new creator subclass and override the factory method in it.
