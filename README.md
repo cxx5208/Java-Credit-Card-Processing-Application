@@ -54,16 +54,22 @@ Here the given question is to extend the code to read input from (ison, xml, csv
 ## Sample testcases
 - CSV Input
 <img width="468" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/0ed7e905-9640-43f2-81e2-1da28b0b8dc8">
+
 - CSV Output
 <img width="468" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/a505ac7c-6764-4e0c-a581-7105ef6032be">
+
 - XML Input
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/a0bdb39d-2941-477e-8d9b-e5faa703f287">
+
 - XML Output
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/fcef8c0b-3c0b-462a-b3c1-c6f29e63df96">
+
 -JSON Input
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/ba46105a-7898-409b-863d-d830f615364e">
+
 -JSON Output
 <img width="440" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/9f948be3-5a3e-43fe-b296-d90fdfef2aae">
+
 - JUnit Test cases
 <img width="468" alt="image" src="https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/282a9ebf-d397-42ab-9587-d4aea82e8091">
 
