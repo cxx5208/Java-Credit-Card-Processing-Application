@@ -48,8 +48,15 @@ Here the given question is to extend the code to read input from (ison, xml, csv
 
 ## Class Diagrams
 (Kindly click on the images and zoom for clarity - Thank you)
-•	Factory Pattern  
+
+•    UML Class Diagram for Factory Pattern Implementation
+
+ ![image](https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/d2c730d6-eec2-49d4-96ff-397da6a4f767)
+
 •	Strategy pattern 
+
+ ![image](https://github.com/gopinathsjsu/individual-project-cxx5208/assets/76988460/afb8cc9b-49cc-4406-bcbf-468a8c2bdafd)
+
 
 ## Sample testcases
 - CSV Input
